@@ -2,8 +2,8 @@
   "id": "Ariszy.app.sub",
   "name": "Ariszy 应用订阅",
   "author": "@Ariszy",
-  "icon": "https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/Ariszy.jpg",
-  "repo": "https://github.com/Ariszy/Private-Script",
+  "icon": "https://raw.github.com/wushukai123456789/123/mainimg/Ariszy.jpg",
+  "repo": "https://github.com/wushukai123456789/123",
   "apps": [{
     "id": "xpread",
     "name": "笑谱阅读",
@@ -37,9 +37,9 @@
         "type": "number",
         "desc": "需要几个账号，数字为几"
       }],
-    "repo": "https://github.com/Ariszy/Private-Script/blob/master/Scripts/xpread.js",
-    "icons": ["https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/xp-mini.png", "https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/xp.png"],
-    "script": "https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/xpread.js"
+    "repo": "https://github.com/wushukai123456789/123/blob/main/Scripts/xpread.js",
+    "icons": ["https://raw.github.com/wushukai123456789/123/mainimg/xp-mini.png", "https://raw.github.com/wushukai123456789/123/mainimg/xp.png"],
+    "script": "https://raw.github.com/wushukai123456789/123/mainScripts/xpread.js"
   },
    {
     "id": "cglm",
@@ -67,9 +67,9 @@
         "type": "number",
         "desc": "需要几个账号，数字为几"
       }],
-    "repo": "https://github.com/Ariszy/Private-Script/blob/master/Scripts/cglm.js",
-    "icons": ["https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/cglm-mini.png", "https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/cglm.png"],
-    "script": "https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/cglm.js"
+    "repo": "https://github.com/wushukai123456789/123/blob/main/Scripts/cglm.js",
+    "icons": ["https://raw.github.com/wushukai123456789/123/mainimg/cglm-mini.png", "https://raw.github.com/wushukai123456789/123/mainimg/cglm.png"],
+    "script": "https://raw.github.com/wushukai123456789/123/mainScripts/cglm.js"
   },
    {
     "id": "klcg",
@@ -97,9 +97,9 @@
         "type": "number",
         "desc": "需要几个账号，数字为几"
       }],
-    "repo": "https://github.com/Ariszy/Private-Script/blob/master/Scripts/klcg.js",
-    "icons": ["https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/klcg-mini.png", "https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/klcg.png"],
-    "script": "https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/klcg.js"
+    "repo": "https://github.com/wushukai123456789/123/blob/main/Scripts/klcg.js",
+    "icons": ["https://raw.github.com/wushukai123456789/123/mainimg/klcg-mini.png", "https://raw.github.com/wushukai123456789/123/mainimg/klcg.png"],
+    "script": "https://raw.github.com/wushukai123456789/123/mainScripts/klcg.js"
   },
     {
     "id": "ryhy",
@@ -127,9 +127,9 @@
         "type": "number",
         "desc": "需要几个账号，数字为几"
       }],
-    "repo": "https://github.com/Ariszy/Private-Script/blob/master/Scripts/ryhy.js",
-    "icons": ["https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/ryhy-mini.png", "https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/ryhy.png"],
-    "script": "https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/ryhy.js"
+    "repo": "https://github.com/wushukai123456789/123/blob/main/Scripts/ryhy.js",
+    "icons": ["https://raw.github.com/wushukai123456789/123/mainimg/ryhy-mini.png", "https://raw.github.com/wushukai123456789/123/mainimg/ryhy.png"],
+    "script": "https://raw.github.com/wushukai123456789/123/mainScripts/ryhy.js"
   },
      {
     "id": "kxhy",
@@ -164,9 +164,9 @@
         "type": "string",
         "desc": "私密脚本，请尊重作者意愿"
       }],
-    "repo": "https://github.com/Ariszy/Private-Script/blob/master/Scripts/kxhy.js",
-    "icons": ["https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/kxhy-mini.png", "https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/kxhy.png"],
-    "script": "https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/kxhy.js"
+    "repo": "https://github.com/wushukai123456789/123/blob/main/Scripts/kxhy.js",
+    "icons": ["https://raw.github.com/wushukai123456789/123/mainimg/kxhy-mini.png", "https://raw.github.com/wushukai123456789/123/mainimg/kxhy.png"],
+    "script": "https://raw.github.com/wushukai123456789/123/mainScripts/kxhy.js"
   },
     {
     "id": "elecv2p",
@@ -201,9 +201,9 @@
         "type": "texearea",
         "desc": "务必填写(JSON数组)"
       }],
-    "repo": "https://github.com/Ariszy/Private-Script/blob/master/Scripts/update_elecv2p_cookies.js",
-    "icons": ["https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/elecv2p-mini.png", "https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/elecv2p.png"],
-    "script": "https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/update_elecv2p_cookies.js"
+    "repo": "https://github.com/wushukai123456789/123/blob/main/Scripts/update_elecv2p_cookies.js",
+    "icons": ["https://raw.github.com/wushukai123456789/123/mainimg/elecv2p-mini.png", "https://raw.github.com/wushukai123456789/123/mainimg/elecv2p.png"],
+    "script": "https://raw.github.com/wushukai123456789/123/mainScripts/update_elecv2p_cookies.js"
   }, {
     "id": "xjaxc",
     "name": "小鸡爱消除",
@@ -230,9 +230,9 @@
         "type": "number",
         "desc": "需要几个账号，数字为几"
       }],
-    "repo": "https://github.com/Ariszy/Private-Script/blob/master/Scripts/xjaxc.js",
-    "icons": ["https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/xjaxc-mini.png", "https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/xjaxc.png"],
-    "script": "https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/xjaxc.js"
+    "repo": "https://github.com/wushukai123456789/123/blob/main/Scripts/xjaxc.js",
+    "icons": ["https://raw.github.com/wushukai123456789/123/mainimg/xjaxc-mini.png", "https://raw.github.com/wushukai123456789/123/mainimg/xjaxc.png"],
+    "script": "https://raw.github.com/wushukai123456789/123/mainScripts/xjaxc.js"
   },{
     "id": "jrtt",
     "name": "今日头条极速版",
@@ -259,9 +259,9 @@
         "type": "number",
         "desc": "需要几个账号，数字为几"
       }],
-    "repo": "https://github.com/Ariszy/Private-Script/blob/master/Scripts/jrtt.js",
-    "icons": ["https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/jrtt-mini.png", "https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/jrtt.png"],
-    "script": "https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/jrtt.js"
+    "repo": "https://github.com/wushukai123456789/123/blob/main/Scripts/jrtt.js",
+    "icons": ["https://raw.github.com/wushukai123456789/123/mainimg/jrtt-mini.png", "https://raw.github.com/wushukai123456789/123/mainimg/jrtt.png"],
+    "script": "https://raw.github.com/wushukai123456789/123/mainScripts/jrtt.js"
   },
   {
     "id": "kkd",
@@ -289,9 +289,9 @@
         "type": "number",
         "desc": "需要几个账号，数字为几"
       }],
-    "repo": "https://github.com/Ariszy/Private-Script/blob/master/Scripts/kkd.js",
-    "icons": ["https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/kkd-mini.png", "https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/kkd.png"],
-    "script": "https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/kkd.js"
+    "repo": "https://github.com/wushukai123456789/123/blob/main/Scripts/kkd.js",
+    "icons": ["https://raw.github.com/wushukai123456789/123/mainimg/kkd-mini.png", "https://raw.github.com/wushukai123456789/123/mainimg/kkd.png"],
+    "script": "https://raw.github.com/wushukai123456789/123/mainScripts/kkd.js"
   },
   {
     "id": "dyjsb",
@@ -340,9 +340,9 @@
         "type": "number",
         "desc": "需要几个账号，数字为几"
       }],
-    "repo": "https://github.com/Ariszy/Private-Script/blob/master/Scripts/dyjsb.js",
-    "icons": ["https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/dyjsb-mini.png", "https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/dyjsb.png"],
-    "script": "https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/dyjsb.js"
+    "repo": "https://github.com/wushukai123456789/123/blob/main/Scripts/dyjsb.js",
+    "icons": ["https://raw.github.com/wushukai123456789/123/mainimg/dyjsb-mini.png", "https://raw.github.com/wushukai123456789/123/mainimg/dyjsb.png"],
+    "script": "https://raw.github.com/wushukai123456789/123/mainScripts/dyjsb.js"
     }, 
     {
     "id": "xp",
@@ -391,9 +391,9 @@
         "type": "number",
         "desc": "需要几个账号，数字为几"
       }],
-    "repo": "https://github.com/Ariszy/Private-Script/blob/master/Scripts/xp.js",
-    "icons": ["https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/xp-mini.png", "https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/xp.png"],
-    "script": "https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/xp.js"
+    "repo": "https://github.com/wushukai123456789/123/blob/main/Scripts/xp.js",
+    "icons": ["https://raw.github.com/wushukai123456789/123/mainimg/xp-mini.png", "https://raw.github.com/wushukai123456789/123/mainimg/xp.png"],
+    "script": "https://raw.github.com/wushukai123456789/123/mainScripts/xp.js"
    },
    {
     "id": "zcy",
@@ -421,9 +421,9 @@
         "type": "number",
         "desc": "需要几个账号，数字为几"
       }],
-    "repo": "https://github.com/Ariszy/Private-Script/blob/master/Scripts/zcy.js",
-    "icons": ["https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/zcy-min.png", "https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/zcy.png"],
-    "script": "https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/zcy.js"
+    "repo": "https://github.com/wushukai123456789/123/blob/main/Scripts/zcy.js",
+    "icons": ["https://raw.github.com/wushukai123456789/123/mainimg/zcy-min.png", "https://raw.github.com/wushukai123456789/123/mainimg/zcy.png"],
+    "script": "https://raw.github.com/wushukai123456789/123/mainScripts/zcy.js"
   },
    {
     "id": "hotsoon",
@@ -458,9 +458,9 @@
         "type": "number",
         "desc": "需要几个账号，数字为几"
       }],
-    "repo": "https://github.com/Ariszy/Private-Script/blob/master/Scripts/hotsoon_old.js",
-    "icons": ["https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/hotsoon-mini.png", "https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/hotsoon.png"],
-    "script": "https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/hotsoon_old.js"
+    "repo": "https://github.com/wushukai123456789/123/blob/main/Scripts/hotsoon_old.js",
+    "icons": ["https://raw.github.com/wushukai123456789/123/mainimg/hotsoon-mini.png", "https://raw.github.com/wushukai123456789/123/mainimg/hotsoon.png"],
+    "script": "https://raw.github.com/wushukai123456789/123/mainScripts/hotsoon_old.js"
   },
      {
     "id": "ranlv",
@@ -495,9 +495,9 @@
         "type": "number",
         "desc": "需要几个账号，数字为几"
       }],
-    "repo": "https://github.com/Ariszy/Private-Script/blob/master/Scripts/ranlv.js",
-    "icons": ["https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/rl-mini.png", "https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/rl.png"],
-    "script": "https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/ranlv.js"
+    "repo": "https://github.com/wushukai123456789/123/blob/main/Scripts/ranlv.js",
+    "icons": ["https://raw.github.com/wushukai123456789/123/mainimg/rl-mini.png", "https://raw.github.com/wushukai123456789/123/mainimg/rl.png"],
+    "script": "https://raw.github.com/wushukai123456789/123/mainScripts/ranlv.js"
   },
   {
     "id": "fqxs",
@@ -532,9 +532,9 @@
         "type": "string",
         "desc": "当前版本host"
       } ],
-    "repo": "https://github.com/Ariszy/Private-Script/blob/master/Scripts/fqxs.js",
-    "icons": ["https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/fqxs-mini.png", "https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/fqxs.png"],
-    "script": "https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/fqxs.js"
+    "repo": "https://github.com/wushukai123456789/123/blob/main/Scripts/fqxs.js",
+    "icons": ["https://raw.github.com/wushukai123456789/123/mainimg/fqxs-mini.png", "https://raw.github.com/wushukai123456789/123/mainimg/fqxs.png"],
+    "script": "https://raw.github.com/wushukai123456789/123/mainScripts/fqxs.js"
   },
   {
     "id": "TT",
@@ -562,9 +562,9 @@
         "type": "number",
         "desc": "需要几个账号，数字为几"
       }],
-    "repo": "https://github.com/Ariszy/Private-Script/blob/master/Scripts/TT.js",
-    "icons": ["https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/TT-mini.png", "https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/TT.png"],
-    "script": "https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/TT.js"
+    "repo": "https://github.com/wushukai123456789/123/blob/main/Scripts/TT.js",
+    "icons": ["https://raw.github.com/wushukai123456789/123/mainimg/TT-mini.png", "https://raw.github.com/wushukai123456789/123/mainimg/TT.png"],
+    "script": "https://raw.github.com/wushukai123456789/123/mainScripts/TT.js"
   },
  {
     "id": "pyq",
@@ -592,9 +592,9 @@
         "type": "number",
         "desc": "需要几个账号，数字为几"
       }],
-    "repo": "https://github.com/Ariszy/Private-Script/blob/master/Scripts/pyq.js",
-    "icons": ["https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/pyq-mini.png", "https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/pyq.png"],
-    "script": "https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/pyq.js"
+    "repo": "https://github.com/wushukai123456789/123/blob/main/Scripts/pyq.js",
+    "icons": ["https://raw.github.com/wushukai123456789/123/mainimg/pyq-mini.png", "https://raw.github.com/wushukai123456789/123/mainimg/pyq.png"],
+    "script": "https://raw.github.com/wushukai123456789/123/mainScripts/pyq.js"
   },
    {
     "id": "huoshan",
@@ -622,9 +622,9 @@
         "type": "number",
         "desc": "需要几个账号，数字为几"
       }],
-    "repo": "https://github.com/Ariszy/Private-Script/blob/master/Scripts/huoshan.js",
-    "icons": ["https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/hs-mini.png", "https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/hs.png"],
-    "script": "https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/huoshan.js"
+    "repo": "https://github.com/wushukai123456789/123/blob/main/Scripts/huoshan.js",
+    "icons": ["https://raw.github.com/wushukai123456789/123/mainimg/hs-mini.png", "https://raw.github.com/wushukai123456789/123/mainimg/hs.png"],
+    "script": "https://raw.github.com/wushukai123456789/123/mainScripts/huoshan.js"
     },
   {
     "id": "jxcollect",
@@ -659,9 +659,9 @@
         "type": "number",
         "desc": "0为不double，1为double且必须满了运行才ok，否则火爆"
       }         ],
-    "repo": "https://github.com/Ariszy/Private-Script/blob/master/Scripts/jxcollect.js",
+    "repo": "https://github.com/wushukai123456789/123/blob/main/Scripts/jxcollect.js",
     "icons": ["https://raw.githubusercontent.com/58xinian/icon/master/jdgc_mini.png","https://github.com/58xinian/icon/raw/master/jdgc.png"],
-    "script": "https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/jxcollect.js"
+    "script": "https://raw.github.com/wushukai123456789/123/mainScripts/jxcollect.js"
   }
  ]
 }
