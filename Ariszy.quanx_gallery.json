@@ -1,4 +1,5 @@
-	"name": "Ariszy task gallery",
+{
+        "name": "Ariszy task gallery",
 	"description": "后5个失效!",
 	"task": [
 	" 10 10 * * * https://raw.githubusercontent.com/wushukai123456789/123/main/Scripts/zy_618jc.js, tag=618手机竞猜, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
